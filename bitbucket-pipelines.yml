@@ -1,0 +1,20 @@
+# https://bitbucket.org/atlassian/ssh-run/src/master/
+pipelines:
+  branches:
+    master:
+      - step:
+          name: 'Deploy'
+          deployment: production
+          script:
+            - pipe: atlassian/ssh-run:0.4.1
+              variables:
+                SERVER: 'shell.r2.websupport.sk'
+                PORT: '27209'
+                SSH_USER: 'uid2165423'
+                SSH_KEY: $G
+                COMMAND: 'deploy.sh'
+                MODE: 'script'
+                DEBUG: 'true'
+                ENV_VARS: >-
+                  WEB_DIR="/mensvenue.sk/web"
+                  APP_DIR="/mensvenue.sk/app"
