@@ -6,8 +6,6 @@ Vue.component('Flickity', Flickity)
 import Particles from 'particles.js'
 Vue.use(Particles)
 
-
-
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 export default ({ app }) => {

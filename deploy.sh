@@ -5,4 +5,3 @@ cd $APP_DIR
 npm install
 npm run generate
 cp -r dist ../web
-

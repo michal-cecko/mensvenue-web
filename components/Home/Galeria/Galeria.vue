@@ -11,9 +11,9 @@
           <a
             href="https://www.instagram.com/mens_venue/"
             target="_blank"
-            class="text-decoration-none"
-            ><span class="text-uppercase">@mensvenue</span></a
-          >
+            class="text-decoration-none">
+              <span class="text-uppercase">@mensvenue</span>
+          </a>
         </div>
         <div class="images hidden-xs-only">
           <a

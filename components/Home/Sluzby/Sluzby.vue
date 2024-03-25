@@ -109,7 +109,7 @@ export default {
           items: [
             {
               name: 'Pánsky strih',
-              price: '15',
+              price: '21',
               menej: 'konzultácia, strih, umytie, styling, servis',
               viac: 'konzultácia, strih vlasov, zaholenie kontúr, opálenie uší, umytie, masáž hlavy, styling, servis v podobe nápoja.',
               viacMenej: false,
@@ -124,14 +124,14 @@ export default {
           items: [
             {
               name: 'Úprava brady',
-              price: '10',
+              price: '12',
               menej: 'konzultácia, úprava, naparenie, styling, servis',
               viac: 'konzultácia, skrátenie, úprava brady, naparenie, zaholenie kontúr, ošetrenie, styling, servis v podobe nápoja.',
               viacMenej: false,
             },
             {
               name: 'Holenie do hladka',
-              price: '13',
+              price: '15',
               menej:
                 "<span class='bold'>HOT & COLD TOWEL</span> - konzultácia, naparenie, holenie, ošetrenie, servis",
               viac: 'konzultácia, 2x naparenie horúcim uterákom, holenie, studený uterák, ošetrenie pokožky, servis v podobe nápoja.',
@@ -149,7 +149,7 @@ export default {
           items: [
             {
               name: "Pánsky strih a <br class='hidden-sm-and-up'> úprava brady",
-              price: '23',
+              price: '30',
               menej:
                 'konzultácia, strih, úprava brady, umytie, styling, servis',
               viac: 'konzultácia, strih vlasov, opálenie uší, úprava brady, naparenie, zaholenie kontúr, ošetrenie, umytie, masáž hlavy, styling vlasov a brady, servis v podobe nápoja. ',
