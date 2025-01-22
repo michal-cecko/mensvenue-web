@@ -108,8 +108,22 @@ export default {
           disable: false,
           items: [
             {
+              name: 'Detský strih (4-13r.)',
+              price: '14',
+              menej: 'konzultácia, strih, umytie, styling, servis',
+              viac: 'konzultácia, strih vlasov, zaholenie kontúr, opálenie uší, umytie, masáž hlavy, styling, servis v podobe nápoja.',
+              viacMenej: false,
+            },
+            {
+              name: 'Študentský strih (14-18r.)',
+              price: '18',
+              menej: 'konzultácia, strih, umytie, styling, servis',
+              viac: 'konzultácia, strih vlasov, zaholenie kontúr, opálenie uší, umytie, masáž hlavy, styling, servis v podobe nápoja.',
+              viacMenej: false,
+            },
+            {
               name: 'Pánsky strih',
-              price: '21',
+              price: '23',
               menej: 'konzultácia, strih, umytie, styling, servis',
               viac: 'konzultácia, strih vlasov, zaholenie kontúr, opálenie uší, umytie, masáž hlavy, styling, servis v podobe nápoja.',
               viacMenej: false,
@@ -124,7 +138,7 @@ export default {
           items: [
             {
               name: 'Úprava brady',
-              price: '12',
+              price: '13',
               menej: 'konzultácia, úprava, naparenie, styling, servis',
               viac: 'konzultácia, skrátenie, úprava brady, naparenie, zaholenie kontúr, ošetrenie, styling, servis v podobe nápoja.',
               viacMenej: false,
@@ -149,7 +163,7 @@ export default {
           items: [
             {
               name: "Pánsky strih a <br class='hidden-sm-and-up'> úprava brady",
-              price: '30',
+              price: '33',
               menej:
                 'konzultácia, strih, úprava brady, umytie, styling, servis',
               viac: 'konzultácia, strih vlasov, opálenie uší, úprava brady, naparenie, zaholenie kontúr, ošetrenie, umytie, masáž hlavy, styling vlasov a brady, servis v podobe nápoja. ',

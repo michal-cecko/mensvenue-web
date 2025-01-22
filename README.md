@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+USE NVM 16 TO GENERATE !!!
+
 ```bash
 # install dependencies
 $ npm install
