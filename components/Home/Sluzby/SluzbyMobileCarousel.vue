@@ -27,7 +27,7 @@
             @click="item.viacMenej = !item.viacMenej"
             v-if="item.viacMenej"
           >
-            MENEJ O STRIHU
+            MENEJ O SLUŽBE
           </div>
           <div
             key="viac"
@@ -35,7 +35,7 @@
             @click="item.viacMenej = !item.viacMenej"
             v-else
           >
-            VIAC O STRIHU
+            VIAC O SLUŽBE
           </div>
         </transition>
       </div>
