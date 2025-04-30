@@ -4,7 +4,7 @@
       2022 Mensvenue © Všetky práva vyhradené.
       <br class="hidden-sm-and-up" />
       Made with <span class="heard">♥</span> by
-      <span class="myBold">Synapps.sk</span>
+      <a href="https://synapps.sk/" class="myBold">Synapps</a>
     </span>
   </div>
 </template>
