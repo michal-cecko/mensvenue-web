@@ -4,7 +4,7 @@
       2022 Mensvenue © Všetky práva vyhradené.
       <br class="hidden-sm-and-up" />
       Made with <span class="heard">♥</span> by
-      <a href="https://synapps.sk/" class="myBold">Synapps</a>
+      <a href="https://cecko.dev" class="myBold" target="_blank" rel="noopener">Michal Čečko</a>
     </span>
   </div>
 </template>
